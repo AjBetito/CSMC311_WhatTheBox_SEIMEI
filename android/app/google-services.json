@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "636212038870",
+    "project_id": "seimei-52a7a",
+    "storage_bucket": "seimei-52a7a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636212038870:android:50522a2f5ce90bf1de0d77",
+        "android_client_info": {
+          "package_name": "com.seimei"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ7x-vUpE7uZdx3xj8xmYltU_Y75lHSjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
